@@ -2,7 +2,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250"/>
 
 <h3 align="center">
-  Welcome to Omar Nashaat's profile!
+  Welcome to Ziad Hesham's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -36,10 +36,10 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ammarahmed1263&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyad-hesham-2115bb238&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=Ammarahmed1263&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Ammarahmed1263&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=zyad-hesham-2115bb238&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=zyad-hesham-2115bb238&style=for-the-badge">
 </a>
 
 
