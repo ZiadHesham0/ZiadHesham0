@@ -36,10 +36,9 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyad-hesham-2115bb238&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=zyad-hesham-2115bb238&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=zyad-hesham-2115bb238&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=ZiadeHesham0&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=ZiadeHesham0&style=for-the-badge">
 </a>
 
 
