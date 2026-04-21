@@ -47,4 +47,4 @@
 
 <!-- <a href="https://www.linkedin.com/in/zyad-hesham-2115bb238/" target="_blank"><img src="https://img.shields.io/badge/-Zyad%20Hesham-2115bb238?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
 [![LinkedIn](https://img.shields.io/badge/-Ziad%20Hesham-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ziad-hesham-2115bb238/)
-[![Gmail](https://img.shields.io/badge/-zyadhesham@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zyadhesham861@gmail.com)
+[![Gmail](https://img.shields.io/badge/-ziadhesham@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zyadhesham861@gmail.com)
