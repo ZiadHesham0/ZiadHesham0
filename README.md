@@ -49,4 +49,4 @@
 [![LinkedIn](https://img.shields.io/badge/-Ziad%20Hesham-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ziad-hesham-2115bb238/)
 [![Gmail](https://img.shields.io/badge/-ziadhesham@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zyadhesham861@gmail.com)
 
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" /> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" /> </div>
