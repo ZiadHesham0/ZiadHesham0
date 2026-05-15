@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?  type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Ziad%20Hesham&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20&descAlignY=55&descAlign=50" width="100%" alt="Profile Header Banner with Ahmed Ezzat's Name"/>
+</div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250"/>
 
 <h3 align="center">
