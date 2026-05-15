@@ -1,17 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Ziad%20Hesham&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20&descAlignY=55&descAlign=50" width="100%" alt="Profile Header Banner with Ziad Hesham's Name"/>
 </div>
-<h3 align="center">
-  Welcome to Ziad Hesham's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+clean+code+and+scalable+solutions;Turning+complex+problems+into+elegant+code&font=Fira+Code&center=true&width=550&height=45&color=9ED3DC&vCenter=true&size=22&pause=1500">
-  </a>
-</p>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1300&color=58A6FF&center=true&vCenter=true&width=680&lines=Welcome+to+my+GitHub+Profile!;Crafting+clean+code+and+scalable+solutions;Turning+complex+problems+into+elegant+code)](https://git.io/typing-svg)
+  
+</div>
+
+
 
 
 - 🏢 I'm a Software Engineer 
